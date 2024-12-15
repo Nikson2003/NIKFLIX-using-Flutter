@@ -1,4 +1,4 @@
-# NIKFLIX-using-Flutter
+# NIKFLIX using Flutter
 
 An all-in-one app for everything related to movies and shows. Built with Flutter, this app allows users to search, explore, and get detailed information about their favorite movies and TV shows.
 
