@@ -25,7 +25,6 @@ Here are some screenshots of the app in action:
 ![Details Screen](images/details_screen.jpg)
 # This is the Page which shows the details about the movie/show.
 
-> *Note: Images should be added to the `/images` folder of your project directory. You can upload them to your GitHub repository.*
 
 ## Installation
 
