@@ -13,8 +13,17 @@ An all-in-one app for everything related to movies and shows. Built with Flutter
 
 Here are some screenshots of the app in action:
 
+![Splash Screen](images/splash_screen.jpg)
+# This is the Splash(Loading) Screen of NIKFLIX.
+
 ![Home Screen](images/home_screen.jpg)
+# This is the Home Screen of NIKFLIX.
+
+![Search Screen](images/search_screen.jpg)
+# Above is the Search Page of NIKFLIX.
+
 ![Details Screen](images/details_screen.jpg)
+# This is the Page which shows the details about the movie/show.
 
 > *Note: Images should be added to the `/images` folder of your project directory. You can upload them to your GitHub repository.*
 
