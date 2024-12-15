@@ -50,3 +50,12 @@ Follow these steps to run the project on your local machine:
 
 1. Launch the app, and you'll be able to search for movies and TV shows.
 2. Browse through the results, view detailed information, and explore genres, cast, and ratings.
+
+## Features
+
+1. Autocomplete Search
+2. Instant Search
+3. Faster Retrieval of Data
+4. Smooth transitions
+5. Constant UI/UX
+6. Cross-Platform Application
