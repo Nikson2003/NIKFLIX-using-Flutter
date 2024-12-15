@@ -13,8 +13,8 @@ An all-in-one app for everything related to movies and shows. Built with Flutter
 
 Here are some screenshots of the app in action:
 
-![Home Screen](images/home_screen.png)
-![Details Screen](images/details_screen.png)
+![Home Screen](images/home_screen.jpg)
+![Details Screen](images/details_screen.jpg)
 
 > *Note: Images should be added to the `/images` folder of your project directory. You can upload them to your GitHub repository.*
 
